@@ -36,9 +36,6 @@
 
 <br />                                                                                                 
 
-<img align="left" alt="Spark61's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark61&hide_border=true&count_private=true" />
-
-
 
 [website]: https://pedda.digital
 [twitter]: https://twitter.com/ultimatumgamer1
