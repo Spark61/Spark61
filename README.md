@@ -33,11 +33,3 @@
 ---
 
 <img align="left" alt="Spark61's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spark61&show_icons=true&hide_border=true&count_private=true" />
-
-<br />                                                                                                 
-
-
-[website]: https://pedda.digital
-[twitter]: https://twitter.com/ultimatumgamer1
-[youtube]: https://www.youtube.com/channel/UCHAwnRWgTi3Pp_T6cHBSr4Q
-[instagram]: https://instagram.com/ultimatumgamer1
