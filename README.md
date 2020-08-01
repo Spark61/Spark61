@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## Projects
+- [Spark61.tech](http://spark61.tech/)
 - [Zyonic Software](http://zyonicsoftware.com/)
   - [SV-Studios](https://sv-studios.net/)
     - [SV-Studios URL-Server](https://url.sv-studios.net/)
@@ -8,6 +9,7 @@
     - [SV-Studios Apply-System](https://apply.sv-studios.net/)
 ### Social Media
 
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
 [<img align="left" alt="ytspark61 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ytspark61 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -39,5 +41,6 @@
 
 <img align="left" alt="Spark61's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spark61&show_icons=true&hide_border=true&count_private=true" />
 
-[twitter]: https://twitter.com/ytspark61
+[website]: https://spark61.tech/
+[twitter]: https://twitter.com/ytspark61/
 [instagram]: https://www.instagram.com/ytspark61/
