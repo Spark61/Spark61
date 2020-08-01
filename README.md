@@ -8,8 +8,6 @@
     - [SV-Studios Apply-System](https://apply.sv-studios.net/)
 ### Social Media
 
-[<img align="left" alt="ultimatumgamer | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ultimatumgamer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ultimatumgamer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ultimatumgamer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -33,3 +31,5 @@
 ---
 
 <img align="left" alt="Spark61's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spark61&show_icons=true&hide_border=true&count_private=true" />
+
+[twitter]: https://twitter.com/ytspark61
