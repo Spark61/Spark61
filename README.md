@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ## Projects
-- [Spark61.tech](http://spark61.tech/)
 - [Zyonic Software](http://zyonicsoftware.com/)
   - [SV-Studios](https://sv-studios.net/)
     - [SV-Studios URL-Server](https://url.sv-studios.net/)
