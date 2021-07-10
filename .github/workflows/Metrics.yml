@@ -37,3 +37,5 @@ jobs:
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7                               # Limit recently used stats to last week
           commits_authoring: spark61@users.noreply.github.com        # Surnames or email addresses used to identify your commits
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
