@@ -1,4 +1,5 @@
-# Hi there 👋 [![wakatime](https://wakatime.com/badge/user/766c0b9a-0f41-4e43-bedf-be86b8cda81a.svg)](https://wakatime.com/@766c0b9a-0f41-4e43-bedf-be86b8cda81a)
+# Hi there 👋 
+[![wakatime](https://wakatime.com/badge/user/766c0b9a-0f41-4e43-bedf-be86b8cda81a.svg)](https://wakatime.com/@766c0b9a-0f41-4e43-bedf-be86b8cda81a)
 
 ## Projects
 - [Zyonic Software](http://zyonicsoftware.com/)
